@@ -7,6 +7,10 @@
 
 Nim language compiler and tools within Alpine 3.12 image built with musl.
 
+```
+Will use nim 1.6.14
+```
+
 ## Inputs
 
 ### `command`
