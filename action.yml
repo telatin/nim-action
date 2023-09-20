@@ -1,4 +1,4 @@
-name: 'NIM Lang Alpine'
+name: 'Nim Compiler on Alpine'
 description: 'Nim language with tools'
 branding:
   icon: 'box'  
