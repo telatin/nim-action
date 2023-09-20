@@ -2,7 +2,7 @@ ARG ALPINE_VER=3.12.1
 
 FROM alpine:${ALPINE_VER}
 
-ARG VERSION=1.4.2
+ARG VERSION=1.6.14
 
 RUN apk update && apk upgrade && apk add --no-cache musl musl-dev gcc g++ gdb libressl-dev \
     gcc-objc curl git pcre-dev openssl-dev bash tar xz wget sudo
